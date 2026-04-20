@@ -9,7 +9,7 @@ An advanced, real-time Computer Vision application that translates hand gestures
 ---
 
 ## 📺 Project Demo
-[![Watch the Video](https://img.placeholder.com/600x300?text=Click+to+Watch+on+YouTube)]([YOUR_YOUTUBE_LINK_HERE](https://www.youtube.com/watch?v=msxx9tJNnF4))
+[![Watch the Video](https://img.placeholder.com/600x300?text=Click+to+Watch+on+YouTube)]([https://www.youtube.com/watch?v=msxx9tJNnF4])
 *Click the image above to watch the system in action!*
 
 ---
