@@ -9,7 +9,7 @@ An advanced, real-time Computer Vision application that translates hand gestures
 ---
 
 ## 📺 Project Demo
-[![Watch the Video](https://img.placeholder.com/600x300?text=Click+to+Watch+on+YouTube)](YOUR_YOUTUBE_LINK_HERE)
+[![Watch the Video](https://img.placeholder.com/600x300?text=Click+to+Watch+on+YouTube)]([YOUR_YOUTUBE_LINK_HERE](https://www.youtube.com/watch?v=msxx9tJNnF4))
 *Click the image above to watch the system in action!*
 
 ---
@@ -51,8 +51,6 @@ An advanced, real-time Computer Vision application that translates hand gestures
 ### 1. Alphabet Recognition
 ![Output Sample 1](images/output_sample_1.png)
 
-### 2. Complex Words (Face Mesh Integration)
-![Output Sample 2](images/output_sample_2.png)
 
 ---
 
