@@ -27,7 +27,7 @@ An advanced, real-time Computer Vision application that translates hand gestures
 
 ## 🏗️ System Architecture
 
-![Architecture Diagram](architecture.png)
+![Architecture Diagram](images/architecture.png)
 *The system pipeline: MediaPipe Landmarks -> Heuristic Classification -> Consensus Engine -> Translation -> TTS.*
 
 ---
@@ -41,7 +41,7 @@ An advanced, real-time Computer Vision application that translates hand gestures
 | **Translation Speed** | ~1 second (Network dependent) |
 
 ### Accuracy Chart
-![Accuracy Chart](accuracy_analysis.png)
+![Accuracy Chart](images/accuracy_analysis.png)
 *Analysis of detection stability across various hand orientations and distances.*
 
 ---
@@ -49,10 +49,10 @@ An advanced, real-time Computer Vision application that translates hand gestures
 ## 📸 Screenshots & Output
 
 ### 1. Alphabet Recognition
-![Output A](output_sample_1.png)
+![Output Sample 1](images/output_sample_1.png)
 
 ### 2. Complex Words (Face Mesh Integration)
-![Output B](output_sample_2.png)
+![Output Sample 2](images/output_sample_2.png)
 
 ---
 
